@@ -25,12 +25,25 @@ To write a Python program to:
 
 ---
 
-## 💻  Program
+] Program
+```python
+p=int(input())
 
-Add Code Here
+t=float(input())
 
-## Output
+r=eval(input())
+
+def simpleInterest(p,t,r):
+
+si = (p*t*r)/100
+
+return si
+```
+Output
+<img width="1117" height="290" alt="491463809-cda51d27-bdc8-483e-8663-eea846500334" src="https://github.com/user-attachments/assets/c33ec05d-6def-49db-8c40-3eb29bbe60cd" />
 
 ## Result
+Thus Python Program to Find Students with the Second Lowest Grade is excuted and verified.  is excuted and verified.
+#  Hackerrank:Runner-Up Score Finder in Python
 
 
